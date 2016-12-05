@@ -1,0 +1,23 @@
+{
+  "name": "github-file-updater",
+  "version": "1.0.0",
+  "description": "Client for updating files on github",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wheresrhys/github-file-updater.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wheresrhys/github-file-updater/issues"
+  },
+  "homepage": "https://github.com/wheresrhys/github-file-updater#readme",
+  "dependencies": {
+    "node-fetch": "^1.6.3"
+  }
+}
